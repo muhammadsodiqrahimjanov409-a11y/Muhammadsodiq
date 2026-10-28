@@ -1,0 +1,6 @@
+{
+  "name": "STEEL TANKS — Online 2 Player Battle",
+  "description": "Real-time top-down 2D multiplayer steel tank arena battle with WebSocket synchronization, mobile joystick & desktop controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
